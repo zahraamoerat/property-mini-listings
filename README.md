@@ -2,7 +2,7 @@
 A vue.js applications that displays a shows which short term property rentals ar available for rental. 
 
 ## Features
-- property rental crads cards
+- property rental cards
 - a toggle that allows viewers and possible renters to sort the prices.
 - unavailable indicator
 - responsive design
